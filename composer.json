@@ -1,0 +1,19 @@
+{
+    "name": "digo/teclib-date",
+    "description": "Static library to simplify dates in PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Digo\\TeclibDate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaime Martínez",
+            "email": "jaime.martinez@tecalis.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
