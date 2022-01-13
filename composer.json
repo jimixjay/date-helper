@@ -1,16 +1,16 @@
 {
-    "name": "digo/teclib-date",
+    "name": "jimixjay/date-helper",
     "description": "Static library to simplify dates in PHP",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Digo\\TeclibDate\\": "src/"
+            "Jimixjay\\DateHelper\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Jaime Martínez",
-            "email": "jaime.martinez@tecalis.com"
+            "email": "jimixjay@gmail.com"
         }
     ],
     "require": {

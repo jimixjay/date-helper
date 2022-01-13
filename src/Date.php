@@ -1,6 +1,6 @@
 <?php
 
-namespace Digo\TeclibDate;
+namespace Jimixjay\DateHelper;
 
 use DateInterval;
 use DateTime;
